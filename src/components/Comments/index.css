@@ -1,0 +1,65 @@
+/* Write your CSS here */
+.background-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  padding: 50px;
+  font-family: 'Roboto';
+}
+
+.main-container {
+  width: 60vw;
+}
+
+.comment-container {
+  display: flex;
+}
+.comment-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-self: flex-start;
+  margin-right: 30px;
+}
+.input-element {
+  box-shadow: darkgray;
+  margin-bottom: 10px;
+  padding-left: 10px;
+  height: 30px;
+}
+.textarea-element {
+  margin-bottom: 10px;
+  box-shadow: darkgray;
+  height: 150px;
+  padding-left: 10px;
+  font-family: 'Roboto';
+}
+.button {
+  background-color: #0b69ff;
+  height: 36px;
+  border: none;
+  width: 136px;
+  color: #ffffff;
+}
+.horizontal-line {
+  border-width: 1px;
+  border-color: #dee0e3;
+  width: 60vw;
+}
+
+.container {
+  display: flex;
+}
+.comment-count {
+  height: 20px;
+  width: 20px;
+  background-color: #0b69ff;
+  color: #ffffff;
+  text-align: center;
+  margin-right: 10px;
+}
+.hide {
+  display: none;
+}

@@ -1,0 +1,113 @@
+.amber {
+  background-color: #f59e0b;
+  border-radius: 15px;
+  height: 30px;
+  width: 30px;
+  text-align: center;
+  margin-right: 10px;
+  padding-top: 5px;
+}
+
+.blue {
+  background-color: #0b69ff;
+  border-radius: 15px;
+  height: 30px;
+  width: 30px;
+  text-align: center;
+  margin-right: 10px;
+  padding-top: 5px;
+  padding-top: 5px;
+}
+
+.orange {
+  background-color: #f97316;
+  border-radius: 15px;
+  height: 30px;
+  width: 30px;
+  text-align: center;
+  margin-right: 10px;
+  padding-top: 5px;
+}
+
+.emerald {
+  background-color: #10b981;
+  border-radius: 15px;
+  height: 30px;
+  width: 30px;
+  text-align: center;
+  margin-right: 10px;
+  padding-top: 5px;
+}
+
+.teal {
+  background-color: #14b8a6;
+  border-radius: 15px;
+  height: 30px;
+  width: 30px;
+  text-align: center;
+  margin-right: 10px;
+  padding-top: 5px;
+}
+
+.red {
+  background-color: #b91c1c;
+  border-radius: 15px;
+  height: 30px;
+  width: 30px;
+  text-align: center;
+  margin-right: 10px;
+  padding-top: 5px;
+}
+
+.light-blue {
+  background-color: #0ea5e9;
+  border-radius: 15px;
+  height: 30px;
+  width: 30px;
+  text-align: center;
+  margin-right: 10px;
+  padding-top: 5px;
+}
+
+/* Write your CSS here */
+.container-comment {
+  display: flex;
+  align-items: center;
+}
+.user-name {
+  font-size: 18px;
+}
+.span-style {
+  font-size: 15px;
+  font-weight: normal;
+  color: #94a3b8;
+  margin-left: 10px;
+}
+.comment {
+  color: #7e858e;
+}
+.img-container {
+  display: flex;
+  justify-content: space-between;
+}
+.img-container-2 {
+  display: flex;
+}
+.image {
+  width: 30px;
+  height: 30px;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+.blue-text {
+  color: #0b69ff;
+  background-color: transparent;
+  border-style: none;
+}
+.button-style {
+  background-color: transparent;
+  border-style: none;
+}
+.list-style {
+  list-style: none;
+}
